@@ -1,0 +1,9 @@
+# ninja log v5
+0	43	1683116415610640851	build.ninja	a1337c2daf8060fe
+2	210	1671298551406580698	CMakeFiles/Data_Structures_Assignment_1.dir/Node.cpp.o	644fe95cc62f7ba7
+2	208	1671459860973358457	CMakeFiles/Data_Structures_Assignment_1.dir/main.cpp.o	4d02a975ee218b79
+2	226	1671298551423410949	CMakeFiles/Data_Structures_Assignment_1.dir/List.cpp.o	f90a41441cc05709
+2	225	1671459860991091849	CMakeFiles/Data_Structures_Assignment_1.dir/Globals.cpp.o	110ff32a91f05c88
+225	260	1671459861027266758	Data_Structures_Assignment_1	419e54587fe94743
+2	27	1671298551226381594	CMakeFiles/Data_Structures_Assignment_1.dir/Item.cpp.o	567bd805c15cc6ee
+2	236	1671298551434459547	CMakeFiles/Data_Structures_Assignment_1.dir/Stack.cpp.o	67a743907a515df2
